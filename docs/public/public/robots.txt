@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://openmsupply.github.io/application-manager-web-app/sitemap.xml
