@@ -3,7 +3,7 @@ title = "index"
 insert_anchor_links = "right"
 +++
 
-## Conforma - Medical Forms, Licensing and Organisational Workflows
+## Conforma - Welcome
 
 Welcome to **Conforma** - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.  
 
