@@ -1,5 +1,5 @@
 +++
-title = "What is Conforma? adam"
+title = "What is Conforma?"
 insert_anchor_links = "right"
 weight = 1
 +++
