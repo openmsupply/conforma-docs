@@ -30,7 +30,7 @@ Some examples of regulatory frameworks where Conforma is currently being used:
 - Pharmaceutical Company Licensing
 - Medicine Import / Export Permits
 
-Conforma's flexibility means that it can be used in a wide range of situations. For clarity, this guide focuses on its intended use in healthcare regulatory environments. Suggestions for use of Conforma in other situations can be found in the [Uses of Conforma](/introduction/uses-for-conforma/) chapter.
+Conforma's flexibility means that it can be used in a wide range of situations. For clarity, this guide focuses on its intended use in healthcare regulatory environments. Suggestions for use of Conforma in other situations can be found in the [Uses of Conforma](//introduction/uses-for-conforma/) chapter.
 
 
 
