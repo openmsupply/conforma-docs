@@ -1,25 +1,9 @@
 +++
-title = "Environment"
+title = "Technical documentation"
 insert_anchor_links = "right"
 weight = 1
 +++
 
-## Introduction
+## Developer Introduction
 
-Content here.
-
-### Subheading 1
-
-Content here.
-
-### Subheading 2
-
-Content here.
-
-### Subheading 3
-
-Content here.
-
-### Subheading 4
-
-Content here.
+Technical documentation for Conforma can be found in the [GitHub wiki](https://github.com/openmsupply/application-manager-web-app/wiki). 
