@@ -4,6 +4,8 @@ insert_anchor_links = "right"
 weight = 1
 +++
 
+## Conforma - Uses
+
 The original inspiration for creating Conforma was to provide a low-cost tool to help manage regulatory workflows in the healthcare industry.
 
 However, Conforma could be used for almost any process that involves an application and a response from an authority.
