@@ -1,32 +1,38 @@
 +++
-title = "index"
-insert_anchor_links = "right"
+title = "Modern Documentation Theme"
+
+
+# The homepage contents
+[extra]
+lead = '<b>Adam</b> is a mordern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+url = "/docs/getting-started/introduction/"
+url_button = "Get started"
+repo_version = "GitHub v0.1.0"
+repo_license = "Open-source MIT License."
+repo_url = "https://github.com/aaranxu/adidoks"
+
+[[extra.list]]
+title = "Security aware"
+content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+
+[[extra.list]]
+title = "Fast by default ⚡️"
+content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+
+[[extra.list]]
+title = "SEO-ready"
+content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+
+[[extra.list]]
+title = "Full text search"
+content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+
+[[extra.list]]
+title = "Page layouts"
+content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+
+[[extra.list]]
+title = "Dark mode"
+content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+
 +++
-
-## Conforma - Welcome
-
-Welcome to **Conforma** - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.  
-
-Conforma has been developed by the team at [The mSupply Foundation](https://msupply.foundation/about) - a friendly bunch who aim to create useful, open-source software in order to improve healthcare solutions in low to middle-income countries. 
-
-Creating Conforma has been a labour of love — thousands of hours of work. We hope you find it a joy to use, and that it results in your regulatory organisation being able to perform its role accurately, quickly and to a high standard.
-
-Conforma's development was kindly sponsored by the [Australian Government's Department of Foreign Affairs and Trade](https://www.dfat.gov.au/).
-
-## What can it do?
-
-Conforma provides a platform to:
-
-- Create application forms
-- Manage complex application lifecycle workflows
-- Assign roles and permissions to users
-- Monitor the status of groups of applications
-- Catalogue outcomes of applications
-
-Some examples of regulatory frameworks where Conforma is currently being used: 
-
-- New Drug Registrations
-- Pharmaceutical Company Licensing
-- Medicine Import / Export Permits
-
-Conforma's flexibility means that it can be used in a wide range of situations. For clarity, this guide focuses on its intended use in healthcare regulatory environments. Suggestions for use of Conforma in other situations can be found in the [Uses of Conforma](/getting-started/uses-for-Conforma/) chapter.
