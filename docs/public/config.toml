@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://openmsupply.github.io/conforma-docs/"
-title = "AdiDoks"
+title = "Conforma"
 description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
 
 # The site theme to use.
@@ -93,7 +93,7 @@ og_locale = "en_US"
 ## JSON-LD
 [extra.schema]
 type = "Organization"
-logo = "logo-doks.png"
+logo = "https://openmsupply.github.io/conforma-docs/conforma-logo.svg"
 twitter = "https://twitter.com/aaranxu"
 linked_in = ""
 github = "https://github.com/aaranxu"
