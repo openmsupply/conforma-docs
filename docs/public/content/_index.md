@@ -1,10 +1,10 @@
 +++
-title = "Modern Documentation Theme"
+title = "Conforma Documentation"
 
 
 # The homepage contents
 [extra]
-lead = '<b>Adam</b> is a mordern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = '<b>Conforma</b> is a Integrate Regulatory Information Management System by <a href="https://msupply.foundation/">The mSupply Foundation</a>.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = "GitHub v0.1.0"
