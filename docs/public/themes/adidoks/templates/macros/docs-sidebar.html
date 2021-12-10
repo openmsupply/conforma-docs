@@ -14,14 +14,19 @@
 			{% if index.subsections %}
 					{% for s in index.subsections %}
 					{% set subsection = get_section(path=s) %}
-					{% if subsection.pages %}
-							<h3>{{ subsection.title }}</h3>
-							<ul class="list-unstyled">
-							{% for page in subsection.pages %}                           
-									<li><a class="docs-link{% if current_url == page.permalink %} active{% endif %}" href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+						{% if subsection.subsections %}
+							{% for t in subsection.subsections %}
+								{% set subsubsection = get_section(path=t) %}
+								{% if subsubsection.pages %}
+									<li>&nbsp;&nbsp;{{ subsubsection.title }}</li>
+									<li><ul >
+									{% for page in subsubsection.pages %}                           
+										<li><a class="docs-link{% if current_url == page.permalink %} active{% endif %}" href="{{ page.permalink | safe }}">---{{ page.title }}</a></li>
+									{% endfor %}
+									</ul></li>
+								{% endif %}
 							{% endfor %}
-					</ul>
-					{% endif %}
+						{% endif %}
 					{% endfor %}
 			{% endif %}
 	</nav>
