@@ -25,6 +25,6 @@ top = false
 - [Bug report](https://github.com/openmsupply/application-manager-server/issues/new)
 - [Feature request](https://github.com/openmsupply/application-manager-server/issues/new)
 
-## Improve documentation
+### Improve documentation
 
 👉 The documentation lives in the [`Conforma docs` repository](https://github.com/openmsupply/conforma-docs)
