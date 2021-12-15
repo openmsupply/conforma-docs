@@ -1,6 +1,6 @@
 +++
 title = "How to Contribute"
-description = "Contribute to AdiDoks, improve documentation, or submit to showcase."
+description = "Contribute to Conforma, improve documentation, or submit to showcase."
 date = 2021-05-01T18:10:00+00:00
 updated = 2021-05-01T18:10:00+00:00
 draft = false
@@ -9,29 +9,22 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "Contribute to AdiDoks, improve documentation, or submit to showcase."
+lead = "Contribute to Conforma, improve documentation, or submit to showcase."
 toc = true
 top = false
 +++
 
 👉 Make sure to read the [Code of Conduct](../code-of-conduct/).
 
-## Contribute to Doks
+## Contribute to Conforma
 
-👉 The AdiDoks code lives in the [`adidoks` repository](https://github.com/aaranxu/adidoks)
-
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
+👉 The Conforma code lives half in the [`Conforma server` repository](https://github.com/openmsupply/application-manager-server) and half in the [`Conforma front-end` repository](https://github.com/openmsupply/application-manager-web-app)
 
 ### Create an issue
 
-- [Bug report](https://github.com/aaranxu/adidoks/issues/new?template=bug-report---.md)
-- [Feature request](https://github.com/aaranxu/adidoks/issues/new?template=feature-request---.md)
+- [Bug report](https://github.com/openmsupply/application-manager-server/issues/new)
+- [Feature request](https://github.com/openmsupply/application-manager-server/issues/new)
 
 ## Improve documentation
 
-👉 The documentation lives in [`./content/docs/`](https://github.com/aaranxu/adidoks/tree/master/content/docs)
-of the [`adidoks` repository](https://github.com/h-enk/getdoks.org).
-
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
+👉 The documentation lives in the [`Conforma docs` repository](https://github.com/openmsupply/conforma-docs)
