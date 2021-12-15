@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-description = "Welcome to Conforma - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind."
+description = "Welcome to **Conforma** - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind."
 date = 2021-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 draft = false
@@ -8,15 +8,10 @@ weight = 10
 sort_by = "weight"
 template = "docs/page.html"
 
-[extra]
-lead = 'Welcome to Conforma - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.'
-toc = true
-top = false
+
 +++
 
-## Conforma - Welcome
-
-Welcome to **Conforma** - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.  
+## About Conforma
 
 Conforma has been developed by the team at [The mSupply Foundation](https://msupply.foundation/about) - a friendly bunch who aim to create useful, open-source software in order to improve healthcare solutions in low to middle-income countries. 
 
