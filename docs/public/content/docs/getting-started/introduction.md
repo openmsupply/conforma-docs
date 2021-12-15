@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+description = "Welcome to Conforma - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind."
 date = 2021-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 draft = false
@@ -9,23 +9,38 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = 'AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme <a href="https://github.com/h-enk/doks">Doks</a> for Zola.'
+lead = 'Welcome to Conforma - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.'
 toc = true
 top = false
 +++
 
-## Quick Start
+## Conforma - Welcome
 
-One page summary of how to start a new AdiDoks project. [Quick Start →](../quick-start/)
+Welcome to **Conforma** - an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.  
 
-## Go further
+Conforma has been developed by the team at [The mSupply Foundation](https://msupply.foundation/about) - a friendly bunch who aim to create useful, open-source software in order to improve healthcare solutions in low to middle-income countries. 
 
-Contributing and Help.
+Creating Conforma has been a labour of love — thousands of hours of work. We hope you find it a joy to use, and that it results in your regulatory organisation being able to perform its role accurately, quickly and to a high standard.
 
-## Contributing
+Conforma's development was kindly sponsored by the [Australian Government's Department of Foreign Affairs and Trade](https://www.dfat.gov.au/).
 
-Find out how to contribute to Doks. [Contributing →](../../contributing/how-to-contribute/)
+## What can it do?
 
-## Help
+Conforma provides a platform to:
 
-Get help on Doks. [Help →](../../help/faq/)
+- Create application forms
+- Manage complex application lifecycle workflows
+- Assign roles and permissions to users
+- Monitor the status of groups of applications
+- Catalogue outcomes of applications
+
+Some examples of regulatory frameworks where Conforma is currently being used: 
+
+- New Drug Registrations
+- Pharmaceutical Company Licensing
+- Medicine Import / Export Permits
+
+Conforma's flexibility means that it can be used in a wide range of situations. For clarity, this guide focuses on its intended use in healthcare regulatory environments. Suggestions for use of Conforma in other situations can be found in the [Uses of Conforma](//introduction/uses-for-conforma/) chapter.
+
+
+
