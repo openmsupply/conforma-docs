@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "One page summary of how to start a new AdiDoks project."
+lead = "Information for regulatory authorities."
 toc = true
 top = false
 +++
