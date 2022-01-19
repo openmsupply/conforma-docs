@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://openmsupply.github.io/conforma-docs/"
+base_url = "https://docs.conforma.nz"
 title = "Conforma"
 description = "Conforma is an Integrated Regulatory Information Management System by The mSupply Foundation."
 
@@ -45,13 +45,13 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-author = "Aaran Xu"
-github = "https://github.com/aaranxu"
-twitter = "https://twitter.com/aaranxu"
-email = "aaranxu@outlook.com"
+author = "Adam Dewey"
+github = "https://github.com/openmsupply/application-manager-web-app"
+twitter = "https://twitter.com/msupply"
+email = "adam@msupply.foundation"
 
 # If running on netlify.app site, set to true
-is_netlify = true
+is_netlify = false
 
 # Set HTML file language
 language_code = "en-US"
@@ -70,7 +70,7 @@ timezone = "America/New_York"
 
 # Edit page on reposity or not
 edit_page = false
-docs_repo = "https://github.com/aaranxu/adidoks"
+docs_repo = "https://github.com/openmsupply/conforma-docs"
 repo_branch = "main"
 
 ## Math settings
@@ -94,9 +94,9 @@ og_locale = "en_US"
 [extra.schema]
 type = "Organization"
 logo = "https://openmsupply.github.io/conforma-docs/conforma-logo.svg"
-twitter = "https://twitter.com/aaranxu"
+twitter = "https://twitter.com/msupply"
 linked_in = ""
-github = "https://github.com/aaranxu"
+github = "https://github.com/openmsupply/conforma-docs"
 section = "blog" # see config.extra.main~url
 ## Sitelinks Search Box
 site_links_search_box = false
