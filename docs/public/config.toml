@@ -51,7 +51,7 @@ twitter = "https://twitter.com/msupply"
 email = "adam@msupply.foundation"
 
 # If running on netlify.app site, set to true
-is_netlify = false
+is_netlify = true
 
 # Set HTML file language
 language_code = "en-US"
