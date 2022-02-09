@@ -12,7 +12,7 @@ repo_license = "Open-source MIT License."
 repo_url = "https://github.com/openmsupply/application-manager-server"
 
 [[extra.list]]
-title = "Adam aware"
+title = "Hello"
 content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
 
 # [[extra.list]]
