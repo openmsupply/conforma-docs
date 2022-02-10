@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "Information for developers."
+lead = "Welcome fellow developers! Explore our GitHub links below and feel free to ask us about any queries :)"
 toc = true
 top = false
 +++

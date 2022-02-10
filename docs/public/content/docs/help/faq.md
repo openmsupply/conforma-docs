@@ -33,4 +33,4 @@ This documentation site is built on [Zola](https://www.getzola.org/documentation
 
 Send *The mSupply Foundation* an E-mail:
 
-- <conforma@msupply.foundation.com>
+[Contact us](https://msupply.foundation/contact)
