@@ -13,7 +13,7 @@ repo_url = "https://github.com/openmsupply/application-manager-server"
 
 [[extra.list]]
 title = ""
-content = '<img src="msupply-foundation-logo square.png">'
+content = '<img src="msupply-foundation-logo square.png" class="msupply_light">'
 
 # [[extra.list]]
 # title = "Fast by default ⚡️"
