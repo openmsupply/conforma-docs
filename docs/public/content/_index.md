@@ -4,16 +4,16 @@ title = "Conforma Documentation"
 
 # The homepage contents
 [extra]
-lead = 'adam <b>Conforma</b> is an Integrated Regulatory Information Management System by <a href="https://msupply.foundation/">The mSupply Foundation</a>.'
+lead = '<b>Conforma</b> is an Integrated Regulatory Information Management System by <a href="https://msupply.foundation/">The mSupply Foundation</a>.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
 repo_url = "https://github.com/openmsupply/application-manager-server"
 
-# [[extra.list]]
-# title = "Hello"
-# content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+[[extra.list]]
+title = ""
+content = '<img src="msupply-foundation-logo.svg">'
 
 # [[extra.list]]
 # title = "Fast by default ⚡️"
