@@ -1,5 +1,5 @@
 +++
-title = "How to Contribute"
+title = "How to contribute"
 description = "Contribute to Conforma, improve documentation, or submit to showcase."
 date = 2021-05-01T18:10:00+00:00
 updated = 2021-05-01T18:10:00+00:00
