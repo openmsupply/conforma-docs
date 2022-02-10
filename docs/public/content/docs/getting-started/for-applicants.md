@@ -1,6 +1,6 @@
 +++
 title = "For applicants"
-description = "One page summary of how to start a new AdiDoks project."
+description = "Information for applicants"
 date = 2021-05-01T08:20:00+00:00
 updated = 2021-05-01T08:20:00+00:00
 draft = false
@@ -14,6 +14,26 @@ toc = true
 top = false
 +++
 
-## Requirements
+## Overview
 
-Stuff here
+This section contains information for the people who submit applications via the Conforma platform. 
+
+## Basic concepts
+
+### Your account
+
+Once registered with the system you can update your details by clicking on your account page in the top right. 
+
+### Starting an application
+
+Applications that you are eligible to submit will appear on your Dashboard. 
+
+The application reviewing body controls which applications you are able to submit. 
+
+If the application you require does not appear, please talk to the application reviewing body who will be able to assist further. 
+
+### Tracking an application
+
+You may track the status of your application by going to your Dashboard. 
+
+Submitted applications will show here. Click on them to see further details, such as which stage the application is currently in. 
