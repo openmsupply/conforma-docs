@@ -14,11 +14,9 @@ toc = true
 top = false
 +++
 
-## What is the AdiDoks?
+## What is the Conforma?
 
-AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
-[Doks](https://getdoks.org), which is a pretty nice theme. Thanks a lot to 
-[*h-enk*](https://github.com/h-enk), the creator of the [Doks](https://getdoks.org).
+Conforma is an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.
 
 ## Keyboard shortcuts for search?
 
@@ -29,11 +27,10 @@ AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
 
 ## Other documentation?
 
-- [Netlify](https://docs.netlify.com/)
-- [Zola](https://www.getzola.org/documentation/getting-started/overview/)
+This documentation site is built on [Zola](https://www.getzola.org/documentation/getting-started/overview/)
 
 ## Contact the creator?
 
-Send *Aaran Xu* an E-mail:
+Send *The mSupply Foundation* an E-mail:
 
-- <aaranxu@outlook.com>
+- <conforma@msupply.foundation.com>
