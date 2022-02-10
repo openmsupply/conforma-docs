@@ -14,7 +14,7 @@ toc = true
 top = false
 +++
 
-## What is the Conforma?
+## What is Conforma?
 
 Conforma is an open-source, flexible pharmaceutical information management system designed with healthcare regulatory frameworks in mind.
 
