@@ -16,5 +16,5 @@ top = false
 
 ## Overview
 
-This section contains a walkthrough to showcase a possible system scenario using the Conforma platform. 
+This section contains a walkthrough to showcase how Conforma can be used to manage workflows for a Drug Regulatory Authority. 
 
