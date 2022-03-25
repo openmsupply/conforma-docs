@@ -84,10 +84,10 @@ library = "katex"  # options: "katex", "mathjax". default is "katex".
 enable = true
 # this image will be used as fallback if a page has no image of its own
 image = "https://openmsupply.github.io/conforma-docs/conforma-logo.svg"
-# twitter_site = "aaranxu"
-# twitter_creator = "aaranxu"
-# facebook_author = "ichunyun"
-# facebook_publisher = "ichunyun"
+twitter_site = "msupply"
+twitter_creator = "msupply"
+facebook_author = "mSupplyFoundation"
+facebook_publisher = "mSupplyFoundation"
 og_locale = "en_US"
 
 ## JSON-LD
