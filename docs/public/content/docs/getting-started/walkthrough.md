@@ -18,3 +18,4 @@ top = false
 
 This section contains a walkthrough to showcase how Conforma can be used to manage workflows for a Drug Regulatory Authority. 
 
+resize_image(docs/public/content/docs/getting-started/basic_workflows.png, width=100, op="fit_width")
