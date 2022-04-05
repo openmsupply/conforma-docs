@@ -20,4 +20,4 @@ This section contains a walkthrough to showcase how Conforma can be used to mana
 
 ![Basic workflows](/docs/getting-started/walkthrough/basic_workflows.png "Basic workflows")
 
-
+resize_image(/docs/getting-started/walkthrough/basic_workflows.png, width=100, op="fit_width")
