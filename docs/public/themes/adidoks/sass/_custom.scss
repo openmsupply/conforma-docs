@@ -14,6 +14,8 @@ img {
   height: auto;
 }
 
+/* Note callout box */ 
+
 .note {
   background-color:#f0efec;
   position: relative;
@@ -42,4 +44,37 @@ img {
   position:absolute;
   top: 0;
  }
+ 
+ /* mSupply callout box */ 
+
+ .omsupdate {
+  background-color:#FFFF;
+  position: relative;
+  margin-bottom:1000px;
+ }
+ .omsupdate {
+  border-left: 8px solid #374453;
+  color: #374453;
+  padding: 40px 10px 10px 60px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 15px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url("/icon.png");
+  background-repeat: no-repeat;
+  background-size:30px;
+  background-position:1.2% 50%;
+ }
+ .omsupdate:before {
+  content:"UPDATE";
+  color: #374453;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  position:absolute;
+  top: 0;
+ }
+  
  
