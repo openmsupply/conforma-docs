@@ -13,3 +13,33 @@ img {
 .autowidth {
   height: auto;
 }
+
+.note {
+  background-color:#f0efec;
+  position: relative;
+  margin-bottom:1000px;
+  border-left: 10px solid #fbaf43;
+  border-radius: 4px;
+  color: #c97500;
+  padding: 46px 20px 20px 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-end-start-radius: 5px;
+  border-end-end-radius: 10px;
+  border-start-end-radius: 10px;
+  border-start-start-radius: 5px;
+  font-size: 15px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .note:before {
+  content:"NOTE";
+  color: #c97500;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  position:absolute;
+  top: 0;
+ }
+ 
