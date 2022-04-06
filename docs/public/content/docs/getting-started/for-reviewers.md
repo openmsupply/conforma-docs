@@ -19,19 +19,4 @@ top = false
 This section contains information for the people who review the applications that are submitted by applicants. 
 
 
-## Basic concepts
-
-### Application content
-
-Application forms can be designed to match your exact requirements. 
-
-The forms are highly customisable so that applicants provide you with the exact information that you require. 
-
-### Application lifecycles
-
-Each application flows along a specific pathway, from start to finish. 
-
-You can use Conforma to design these pathways and to specify what action should happen when, and who should be involved. 
-
-Actions can be automated - such as sending out an automated email response to the applicant or generating a document. 
 

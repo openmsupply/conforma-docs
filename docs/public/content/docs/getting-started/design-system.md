@@ -18,8 +18,24 @@ top = false
 
 This section describes how to configure Conforma to match your workflows. 
 
-## How to install
+## How to design your system
 
 Work in Progress - please come back soon and we will have updated this page!
 
 In the meantime, if you are interested in using Conforma please contact [The mSupply Foundation](https://msupply.foundation/about) and we will be glad to help :)
+
+## Basic concepts
+
+### Application content
+
+Application forms can be designed to match your exact requirements. 
+
+The forms are highly customisable so that applicants provide you with the exact information that you require. 
+
+### Application lifecycles
+
+Each application flows along a specific pathway, from start to finish. 
+
+You can use Conforma to design these pathways and to specify what action should happen when, and who should be involved. 
+
+Actions can be automated - such as sending out an automated email response to the applicant or generating a document. 
