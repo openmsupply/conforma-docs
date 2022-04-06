@@ -26,14 +26,18 @@ In this example system the Drug Regulatory Authority has several simple workflow
 - A way for pharmacists to apply to register themselves as a member of one of the registered pharmacies. 
 - A way for medical personnel to record and submit AEFIs or ADRs for review by one or more supervising medical personnel. 
 
-<a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
-    <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" width=700>
-</a>
-
-
+<div class = "autowidth">
+    <a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
+        <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" width=700>
+    </a>
+</div>
 
 ### Advanced workflows
 
 The Drug Regulatory Authority also uses Conforma for more complex workflows, such as managing the lifecycle of bringing a new product to market subject to stringent quality and safety controls. 
 
-{{ resize_image(path="/docs/getting-started/walkthrough/advanced_workflow.png", width=700, height=700, op="fit", format="png", quality=100) }}
+<div class = "autowidth">
+    <a href="/docs/getting-started/walkthrough/advanced_workflow.png" target="_blank">
+        <img src="/docs/getting-started/walkthrough/advanced_workflow.png" alt="" >
+    </a>
+</div>
