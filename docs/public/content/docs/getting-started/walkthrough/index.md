@@ -28,7 +28,7 @@ In this example system the Regulatory Authority has several simple workflows tha
 
 <div class = "autowidth">
     <a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
-        <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" width=700>
+        <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" >
     </a>
 </div>
 
