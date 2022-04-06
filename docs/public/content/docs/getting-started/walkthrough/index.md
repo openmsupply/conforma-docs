@@ -29,6 +29,12 @@ In this example system the Drug Regulatory Authority has several simple workflow
 
 {{ resize_image(path="/docs/getting-started/walkthrough/basic_workflows.png", width=700, height=700, op="fit", format="png", quality=100) }}
 
+<a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
+    <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="">
+</a>
+
+
+
 ### Advanced workflows
 
 The Drug Regulatory Authority also uses Conforma for more complex workflows, such as managing the lifecycle of bringing a new product to market subject to stringent quality and safety controls. 
