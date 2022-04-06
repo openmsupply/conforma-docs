@@ -16,11 +16,11 @@ top = false
 
 ## Overview
 
-This section contains a walkthrough to showcase how Conforma can be used to manage workflows for a Drug Regulatory Authority. 
+This section contains a walkthrough to showcase how Conforma can be used to manage workflows for a Regulatory Authority. 
 
 ### Basic workflows
 
-In this example system the Drug Regulatory Authority has several simple workflows that they manage using Conforma: 
+In this example system the Regulatory Authority has several simple workflows that they manage using Conforma: 
 
 - A way for internal users to maintain a database of registered pharmacies.
 - A way for pharmacists to apply to register themselves as a member of one of the registered pharmacies. 
@@ -34,7 +34,7 @@ In this example system the Drug Regulatory Authority has several simple workflow
 
 ### Advanced workflows
 
-The Drug Regulatory Authority also uses Conforma for more complex workflows, such as managing the lifecycle of bringing a new product to market subject to stringent quality and safety controls. 
+The Regulatory Authority also uses Conforma for more complex workflows, such as managing the lifecycle of bringing a new drug product to market subject to stringent quality and safety controls. 
 
 <div class = "autowidth">
     <a href="/docs/getting-started/walkthrough/advanced_workflow.png" target="_blank">
