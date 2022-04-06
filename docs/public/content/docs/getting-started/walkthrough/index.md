@@ -26,9 +26,6 @@ In this example system the Drug Regulatory Authority has several simple workflow
 - A way for pharmacists to apply to register themselves as a member of one of the registered pharmacies. 
 - A way for medical personnel to record and submit AEFIs or ADRs for review by one or more supervising medical personnel. 
 
-
-{{ resize_image(path="/docs/getting-started/walkthrough/basic_workflows.png", width=700, height=700, op="fit", format="png", quality=100) }}
-
 <a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
     <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" width=700>
 </a>
