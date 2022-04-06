@@ -30,7 +30,7 @@ In this example system the Drug Regulatory Authority has several simple workflow
 {{ resize_image(path="/docs/getting-started/walkthrough/basic_workflows.png", width=700, height=700, op="fit", format="png", quality=100) }}
 
 <a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
-    <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="">
+    <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" width=700>
 </a>
 
 
