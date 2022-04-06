@@ -29,8 +29,8 @@ In this example system the Regulatory Authority has several simple workflows tha
 - A way for medical personnel to record and submit AEFIs or ADRs for review by one or more supervising medical personnel. 
 
 <div class = "autowidth">
-    <a href="/docs/getting-started/walkthrough/basic_workflows.png" target="_blank">
-        <img src="/docs/getting-started/walkthrough/basic_workflows.png" alt="" >
+    <a href="/docs/about/walkthrough/basic_workflows.png" target="_blank">
+        <img src="/docs/about/walkthrough/basic_workflows.png" alt="" >
     </a>
 </div>
 
@@ -39,7 +39,7 @@ In this example system the Regulatory Authority has several simple workflows tha
 The Regulatory Authority also uses Conforma for more complex workflows, such as managing the lifecycle of bringing a new drug product to market subject to stringent quality and safety controls. 
 
 <div class = "autowidth">
-    <a href="/docs/getting-started/walkthrough/advanced_workflow.png" target="_blank">
-        <img src="/docs/getting-started/walkthrough/advanced_workflow.png" alt="" >
+    <a href="/docs/about/walkthrough/advanced_workflow.png" target="_blank">
+        <img src="/docs/about/walkthrough/advanced_workflow.png" alt="" >
     </a>
 </div>
