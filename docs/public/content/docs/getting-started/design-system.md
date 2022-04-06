@@ -23,7 +23,8 @@ This section describes how to configure Conforma to match your workflows.
 <div>
     <p class = "omsupdate">Work in Progress - please come back soon and we will have updated this page!
     <br>
-    In the meantime, if you are interested in using Conforma please contact [The mSupply Foundation](https://msupply.foundation/about) and we will be glad to help :) 
+    <br>
+    In the meantime, if you are interested in using Conforma please contact <a href="https://msupply.foundation/about" target = "_blank"> The mSupply Foundation</a>  and we will be glad to help :) 
     </p>
 </div>
 
