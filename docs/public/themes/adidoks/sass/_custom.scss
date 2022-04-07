@@ -1,7 +1,7 @@
-body:not(.dark) .msupply_dark {
+body:not(.dark) .msupply_dark, .dark_omsupdate {
     display: none;
   }
-.dark .msupply_light {
+.dark .msupply_light, .light_note, .light_omsupdate {
     display: none;
   }
 
@@ -16,7 +16,7 @@ img {
 
 /* Note callout box */ 
 
-.note {
+.light_note {
   background-color:#f0efec;
   position: relative;
   margin-bottom:1000px;
@@ -33,7 +33,7 @@ img {
   font-size: 15px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
- .note:before {
+ .light_note:before {
   content:"NOTE";
   color: #c97500;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,15 +44,15 @@ img {
   position:absolute;
   top: 0;
  }
+
+ 
  
  /* mSupply callout box */ 
 
- .omsupdate {
+ .light_omsupdate {
   background-color:#FFFF;
   position: relative;
   margin-bottom:1000px;
- }
- .omsupdate {
   border-left: 8px solid #374453;
   color: #374453;
   padding: 40px 10px 10px 60px;
@@ -65,7 +65,7 @@ img {
   background-size:30px;
   background-position:1.2% 50%;
  }
- .omsupdate:before {
+ .light_omsupdate:before {
   content:"UPDATE";
   color: #374453;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -77,4 +77,31 @@ img {
   top: 0;
  }
   
+ .dark_omsupdate {
+  background-color:#747171;
+  position: relative;
+  margin-bottom:1000px;
+  border-left: 8px solid #94b1d2;
+  color: #f8f9fa;
+  padding: 40px 10px 10px 60px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 15px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url("/icon.png");
+  background-repeat: no-repeat;
+  background-size:30px;
+  background-position:1.2% 50%;
+ }
  
+ .dark_omsupdate:before {
+  content:"UPDATE";
+  color: #f8f9fa;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  position:absolute;
+  top: 0;
+ }
