@@ -14,12 +14,6 @@ toc = true
 top = false
 +++
 
-## Overview
-
-This section describes how to configure Conforma to match your workflows. 
-
-## How to design your system
-
 <div>
     <p class = "omsupdate">Work in Progress - please come back soon and we will have updated this page!
     <br>
@@ -28,7 +22,13 @@ This section describes how to configure Conforma to match your workflows.
     </p>
 </div>
 
+## Overview
 
+This section describes how to configure Conforma to match your workflows. 
+
+## How to design your system
+
+Work in progress.
 
 ## Basic concepts
 
