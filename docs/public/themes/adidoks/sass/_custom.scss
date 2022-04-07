@@ -1,9 +1,14 @@
-body:not(.dark) .msupply_dark, .dark_omsupdate {
+body:not(.dark) {
+  .msupply_dark, .dark_omsupdate {
     display: none;
   }
-.dark .msupply_light, .light_note, .light_omsupdate {
+}
+
+.dark {
+  .msupply_light, .light_note, .light_omsupdate {
     display: none;
-  }
+    }
+}
 
 img {
     max-width: 100%;
