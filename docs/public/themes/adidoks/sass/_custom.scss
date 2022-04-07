@@ -1,11 +1,11 @@
 body:not(.dark) {
-  .msupply_dark, .dark_omsupdate {
+  .dark_msupply, .dark_omsupdate {
     display: none;
   }
 }
 
 .dark {
-  .msupply_light, .light_note, .light_omsupdate {
+  .light_msupply, .light_note, .light_omsupdate {
     display: none;
     }
 }
