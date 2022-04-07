@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://docs.conforma.nz"
 title = "Conforma"
-description = "Conforma is an open source workflow platform designed by <a href="https://msupply.foundation/">The mSupply Foundation</a>"
+description = "Conforma is an open source workflow platform designed by The mSupply Foundation"
 
 # The site theme to use.
 theme = "adidoks"
