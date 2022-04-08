@@ -18,7 +18,11 @@ top = false
 
 This section contains a walkthrough of a demonstration configuration to showcase how Conforma can be used to manage workflows for a Regulatory Authority. 
 
-You can access the demonstration system here (Work in Progress!). Have fun exploring! 
+You can access the demonstration system here:
+
+<a href="https://demo.conforma.nz:50000/" target="_blank">
+
+Have fun exploring! 
 
 ### Basic workflows
 
