@@ -16,6 +16,22 @@ top = false
 
 ## Overview
 
+<div>
+    <p class = "light_omsupdate">Work in Progress - please come back soon and we will have updated this page!
+    <br>
+    <br>
+    In the meantime, if you are interested in using Conforma please contact <a href="https://msupply.foundation/about" target = "_blank"> The mSupply Foundation</a>  and we will be glad to help :) 
+    </p>
+</div>
+
+<div>
+    <p class = "dark_omsupdate">Work in Progress - please come back soon and we will have updated this page!
+    <br>
+    <br>
+    In the meantime, if you are interested in using Conforma please contact <a href="https://msupply.foundation/about" target = "_blank"> The mSupply Foundation</a>  and we will be glad to help :) 
+    </p>
+</div>
+
 This section contains a walkthrough of a demonstration configuration to showcase how Conforma can be used to manage workflows for a Regulatory Authority. 
 
 You can access the demonstration system here:
