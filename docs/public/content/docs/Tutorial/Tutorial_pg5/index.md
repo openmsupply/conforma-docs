@@ -217,8 +217,9 @@ Remember if you marking the overall outcome the application as Non-conform to in
 
     ![Company approval email](/docs/about/demo/42.png)
 
+
+
 ----------
 
-Now you you have approved that company registration application, log out of Alice's account and head back into your created applicant user account. 
-
-Then jump to section **5. Submitting a product registration application** of the tutorial to continue through the walkthrough.
+Now you 
+Jump to section **5. Submitting a product registration application** of the tutorial to continue through the walkthrough.
