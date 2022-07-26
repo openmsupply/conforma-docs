@@ -22,12 +22,6 @@ top = false
     
     This will take you to the log-in page.
 
-<div class = "autowidth">
-    <a href="/docs/about/demo/1.png" target="_blank">
-        <img src="/docs/about/demo/1.png" alt="" >
-    </a>
-</div>
-
-{{ resize_image(path='/docs/about/demo/1.png', width=450, height=600, op='scale') }}
+![Login Window!](/docs/about/demo/1.png)
 
 
