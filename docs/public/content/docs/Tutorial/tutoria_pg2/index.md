@@ -1,5 +1,5 @@
 +++
-title = "Tutorial"
+title = "1. Tutorial introduction"
 description = "Demonstration of a sample Conforma system"
 date = 2021-05-01T08:20:00+00:00
 updated = 2021-05-01T08:20:00+00:00
@@ -41,6 +41,10 @@ You can access the demonstration system here:
 
 Have fun exploring! 
 
+### Navigating through this tutorial 
+
+
+
 ### Using the system as an applicant user
 
 The recommended way to get familiar with this the system is by starting as an applicant user. Applicant users are in the Conforma systems are users who submit applications via the platform to a regulatory agency. 
@@ -67,3 +71,7 @@ So what kinds of things can internal users do in the system?:
 - Track and manage the lifecycle of applications and their products in the system, such as 'Renewal applications of licences'. 
 - Manage workloads, track applications and manage and view databases of application by-products. 
 - And much more!
+
+--------------
+
+Jump to section **2. Starting as an applicant user** of the tutorial to continue
