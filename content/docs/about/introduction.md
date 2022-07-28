@@ -15,7 +15,7 @@ toc = true
 
 ## What is Conforma?
 
-Conforma is an open source platform that provides a set of tools to help you to streamline your information workflows. 
+Conforma is an open source platform that provides a set of tools to help you streamline your information workflows. 
 
 The platform has been designed to allow seamless collaboration between internal and external users of the workflows. 
 
