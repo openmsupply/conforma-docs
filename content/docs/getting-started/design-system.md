@@ -44,7 +44,7 @@ Work in progress.
   graph LR
       A --- B
       B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
+      B-->D(fa:fa-spinner why);
   </div>
  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
  <script>mermaid.initialize({startOnLoad:true});
